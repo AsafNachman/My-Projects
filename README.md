@@ -1,3 +1,3 @@
 # My-Projects
-YourSpace is my 12-grade project and ConnectFourAi is my summer break project after finishing high school.
-Both projects are on python 3.8+
+YourSpace is my 12th-grade project and ConnectFourAi is a project I made in the summer break between 12th grade and 13th grade at Ort Singalovski.
+Both projects are on Python 3.8+
